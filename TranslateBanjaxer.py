@@ -3,8 +3,7 @@ from googletrans import Translator
 import random
 translator = Translator()
 print("=========================================")
-print("=== TRANSLATE BANJAXER BY CASHMAN3000 ===")
-print("===       https://www.cm3k.xyz/       ===")
+print("=== TRANSLATEBANJAX BY CASHMAN3000 ===")
 print("=========================================")
 toTranslate = input("Text to translate: ")
 amount = input("Amount of times to translate: ")
